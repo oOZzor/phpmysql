@@ -15,6 +15,7 @@ const fileThis = 'this file is for test git pull to github and push';
 const servername = 'localhost';
 const username = 'root';
 const password = '123456';
+
 //链接数据库
 function mysqlconn () {
     //for push
