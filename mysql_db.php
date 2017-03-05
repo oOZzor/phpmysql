@@ -1,4 +1,9 @@
 <?php
+
+
+
+use mysqli;
+use mysqli_driver;
 /*mysql connection by php */
 /**
  *语法
@@ -24,3 +29,4 @@ mysql_close($conn);
 
 //test git push
 
+//
