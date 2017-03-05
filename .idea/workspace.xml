@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f30e9210-74e5-4e75-ae15-2ef9cc0dec98" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions/mysqlconnection.php" afterPath="$PROJECT_DIR$/functions/mysqlconnection.php" />
     </list>
     <ignored path="phpmysql.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,7 +27,7 @@
       <file leaf-file-name="mysql_db.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysql_db.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
+            <state relative-caret-position="-76">
               <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding>
                 <element signature="e#9#20#0#PHP" expanded="true" />
@@ -38,8 +39,8 @@
       <file leaf-file-name="mysqlconnection.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/functions/mysqlconnection.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+            <state relative-caret-position="361">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
                 <element signature="e#6#93#0#PHP" expanded="true" />
               </folding>
@@ -229,7 +230,7 @@
       <option name="presentableId" value="Default" />
       <updated>1488696517530</updated>
       <workItem from="1488696519174" duration="2810000" />
-      <workItem from="1488699644198" duration="3354000" />
+      <workItem from="1488699644198" duration="3517000" />
     </task>
     <task id="LOCAL-00001" summary="push test">
       <created>1488703260214</created>
@@ -252,11 +253,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488703311001</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="push test">
+      <created>1488703338916</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1488703338916</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6164000" />
+    <option name="totallyTimeSpent" value="6327000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1924" height="1050" extended-state="0" />
@@ -313,6 +321,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="push test" />
     <option name="LAST_COMMIT_MESSAGE" value="push test" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -361,16 +371,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysql_db.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#9#20#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/oOZzoror">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -387,10 +387,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql_db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#9#20#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/functions/mysqlconnection.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        <state relative-caret-position="361">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="e#6#93#0#PHP" expanded="true" />
           </folding>
