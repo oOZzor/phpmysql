@@ -8,7 +8,8 @@
 
 namespace Functions;
 
-
+//pull :: fetch from online
+//push  :: merge new change to branch
 const fileThis = 'this file is for test git pull to github and push';
 
 //链接数据库
