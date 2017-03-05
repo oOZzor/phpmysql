@@ -18,4 +18,9 @@ if (!$con)
 
 // some code
 
-mysql_close($con);
+
+//close mysql connection
+mysql_close($conn);
+
+//test git push
+
