@@ -18,3 +18,4 @@ if (!$con)
 
 // some code
 
+mysql_close($con);
